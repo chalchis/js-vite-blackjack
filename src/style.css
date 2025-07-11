@@ -1,0 +1,30 @@
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+	background: url('/assets/cartas/table_black_jack.jpg')  no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.titulo_jack
+{
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+.titulo_player
+{
+	color: white;
+}
+
+.carta
+{
+	position: relative;
+	width: 150px;
+	left: 100px;
+	margin-left: -75px;
+}
