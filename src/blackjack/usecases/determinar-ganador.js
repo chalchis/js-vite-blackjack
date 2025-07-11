@@ -1,4 +1,9 @@
 
+/**
+ * 
+ * @param {*} puntosPlayer 
+ * @param {*} puntosCasino 
+ */
 export const determinarGanador = (puntosPlayer, puntosCasino) => {
 	setTimeout(() => {
 		//mensajeFinal(puntosMinimos, puntosCasino);
