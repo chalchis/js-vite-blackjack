@@ -1,0 +1,8 @@
+En el juego de Blackjack Vite, eres un jugador 
+que entra al casino virtual con el objetivo de vencer a 
+la banca. Con cada partida, debes decidir si pedir una 
+carta más para acercarte a 21 puntos, o detenerte y 
+esperar que el casino se pase. La tensión aumenta con 
+cada carta, y la emoción de ganar depende de tu estrategia 
+y un poco de suerte. ¿Podrás vencer al casino y 
+convertirte en el campeón del Blackjack?
