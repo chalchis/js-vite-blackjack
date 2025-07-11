@@ -15,5 +15,8 @@ Este proyecto es una implementación del clásico juego de Blackjack usando Java
 1. Clona el repositorio.
 2. Instala las dependencias con:
 
-   ```sh
+   
    npm install 
+   npm run dev
+   y copia la url en tu nmavegador
+   ```
