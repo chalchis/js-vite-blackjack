@@ -1,8 +1,8 @@
 
 /**
  * 
- * @param {*} puntosPlayer 
- * @param {*} puntosCasino 
+ * @param {*} puntosPlayer string
+ * @param {*} puntosCasino string
  */
 export const determinarGanador = (puntosPlayer, puntosCasino) => {
 	setTimeout(() => {
