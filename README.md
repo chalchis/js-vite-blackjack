@@ -18,5 +18,5 @@ Este proyecto es una implementación del clásico juego de Blackjack usando Java
    
    npm install 
    npm run dev
-   y copia la url en tu nmavegador
+   y copia la url en tu navegador
    ```
